@@ -3,3 +3,5 @@ testing git merge
 dev2 code
 
 conflict testing dev2
+conflict testig on dev1:wq!
+
